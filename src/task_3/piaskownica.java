@@ -11,5 +11,6 @@ public class piaskownica {
 		System.out.println("KSkÃ³ra: KLemur siÄ™ melduje");
 		System.out.println("PUszko: @KLemur - dodawaÅ‚am rÃ³wnoczeÅ›nie z TobÄ… i siÄ™ wysypaÅ‚. bÃ³l.");
 		System.out.println("KLemur: wysypa³y siê polskie znaki");
-	}
+		System.out.println("ARenc: :( ¹êæœ");
+			}
 }
