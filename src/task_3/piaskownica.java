@@ -2,12 +2,13 @@ package task_3;
 
 public class piaskownica {
 	public static void main(String[] args) {
-		System.out.println("ARenc AMetz ASmoleñ KStrzeboñska KSkóra KSobczyk LSzetlak MPietruszewska OPu³czyñska PUszko TKowalski"); //St¹d usuwacie siebie
-		System.out.println(); //Nowa linia sposób 1
-		System.out.print("\n"); //Nowa linia sposób 2
-		System.out.println("Kto: coœ tam"); //Ka¿dy z Was dopisuje swoj¹ linijkê pod pod moj¹:
-		System.out.println("ASiewierska: doda³am coœ do kodu");
-		System.out.println("ARenc: jakimœ cudem doda³am coœ do kodu");
-		System.out.println("KSkóra: KLemur siê melduje");
+		System.out.println("ARenc AMetz ASmoleÅ„ KStrzeboÅ„ska KSkÃ³ra KSobczyk LSzetlak MPietruszewska OPuÅ‚czyÅ„ska TKowalski"); //StÄ…d usuwacie siebie
+		System.out.println(); //Nowa linia sposÃ³b 1
+		System.out.print("\n"); //Nowa linia sposÃ³b 2
+		System.out.println("Kto: coÅ› tam"); //KaÅ¼dy z Was dopisuje swojÄ… linijkÄ™ pod pod mojÄ…:
+		System.out.println("ASiewierska: dodaÅ‚am coÅ› do kodu");
+		System.out.println("ARenc: jakimÅ› cudem dodaÅ‚am coÅ› do kodu");
+		System.out.println("KSkÃ³ra: KLemur siÄ™ melduje");
+		System.out.printl("PUszko: @KLemur - dodawaÅ‚am rÃ³wnoczeÅ›nie z TobÄ… i siÄ™ wysypaÅ‚. bÃ³l.");
 	}
 }
