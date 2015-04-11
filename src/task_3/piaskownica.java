@@ -10,5 +10,6 @@ public class piaskownica {
 		System.out.println("ARenc: jakimś cudem dodałam coś do kodu");
 		System.out.println("KSkóra: KLemur się melduje");
 		System.out.println("PUszko: @KLemur - dodawałam równocześnie z Tobą i się wysypał. ból.");
+		System.out.println("KLemur: wysypa�y si� polskie znaki");
 	}
 }
