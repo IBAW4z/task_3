@@ -9,6 +9,6 @@ public class piaskownica {
 		System.out.println("ASiewierska: dodałam coś do kodu");
 		System.out.println("ARenc: jakimś cudem dodałam coś do kodu");
 		System.out.println("KSkóra: KLemur się melduje");
-		System.out.printl("PUszko: @KLemur - dodawałam równocześnie z Tobą i się wysypał. ból.");
+		System.out.println("PUszko: @KLemur - dodawałam równocześnie z Tobą i się wysypał. ból.");
 	}
 }
