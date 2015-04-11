@@ -7,6 +7,5 @@ public class piaskownica {
 		System.out.print("\n"); //Nowa linia sposób 2
 		System.out.println("Kto: coś tam"); //Każdy z Was dopisuje swoją linijkę pod pod moją:
 		System.out.println("ASiewierska: dodałam coś do kodu");
-		System.out.println("KSkóra: KLemur jestem");
 	}
 }
