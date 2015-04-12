@@ -13,5 +13,6 @@ public class piaskownica {
 		System.out.println("KLemur: wysypały się polskie znaki");
 		System.out.println("ARenc: :( ąęćś");
 		System.out.println("PUszko: druga próbka żółć");
+		System.out.println("Seriously?");
 			}
 }
