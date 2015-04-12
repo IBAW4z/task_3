@@ -2,10 +2,12 @@ package task_3;
 
 public class piaskownica {
 	public static void main(String[] args) {
-		System.out.println("ARenc AMetz ASmoleÅ„ KStrzeboÅ„ska KSkÃ³ra KSobczyk LSzetlak MPietruszewska OPuÅ‚czyÅ„ska PUszko TKowalski"); //StÄ…d usuwacie siebie
-		System.out.println(); //Nowa linia sposÃ³b 1
-		System.out.print("\n"); //Nowa linia sposÃ³b 2
-		System.out.println("Kto: coÅ› tam"); //KaÅ¼dy z Was dopisuje swojÄ… linijkÄ™ pod pod mojÄ…:
-		System.out.println("ASiewierska: dodaÅ‚am coÅ› do kodu");
-	}
+		System.out.println("ARenc AMetz ASmoleñ KStrzeboñska KSkóra KSobczyk LSzetlak MPietruszewska TKowalski"); //St¹d usuwacie siebie
+		System.out.println(); //Nowa linia sposób1
+		System.out.print("\n"); //Nowa linia sposób2
+		System.out.println("Kto: coœ tam"); //Ka¿dy z Was dopisuje swoj¹ linijkê pod moj¹:
+		System.out.println("ASiewierska: doda³am coœ do kodu"); // W zwi¹zku z wykrzaczeniem wywali³am grafomaniê Pañ, które nawet na instrukcje nie poczeka³y!
+		System.out.println("Finally"); //po co mam coœ pisaæ? (Ola)...
+		System.out.println("KSkóra: czy kiedyœ zrobiê tu coœ dobrze za pierwszym podejœciem?");
+			}
 }
