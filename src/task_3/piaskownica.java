@@ -8,6 +8,5 @@ public class piaskownica {
 		System.out.println("Kto: coœ tam"); //Ka¿dy z Was dopisuje swoj¹ linijkê pod moj¹:
 		System.out.println("ASiewierska: doda³am coœ do kodu"); // W zwi¹zku z wykrzaczeniem wywali³am grafomaniê Pañ, które nawet na instrukcje nie poczeka³y!
 		System.out.println("Finally"); //po co mam coœ pisaæ? (Ola)...
-		System.out.println("KSkóra: Nadgorliwoœæ KLemura gorsza od faszyzmu");
 			}
 }
