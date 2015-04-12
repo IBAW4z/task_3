@@ -2,7 +2,7 @@ package task_3;
 
 public class piaskownica {
 	public static void main(String[] args) {
-		System.out.println("ARenc AMetz ASmoleĹ„ KStrzeboĹ„ska KSkĂłra KSobczyk LSzetlak MPietruszewska OPuĹ‚czyĹ„ska TKowalski"); //StÄ…d usuwacie siebie
+		System.out.println("ARenc AMetz ASmoleĹ„ KStrzeboĹ„ska KSkĂłra KSobczyk LSzetlak MPietruszewska TKowalski"); //StÄ…d usuwacie siebie
 		System.out.println(); //Nowa linia sposĂłb 1
 		System.out.print("\n"); //Nowa linia sposĂłb 2
 		System.out.println("Kto: coĹ› tam"); //KaĹĽdy z Was dopisuje swojÄ… linijkÄ™ pod pod mojÄ…:
@@ -14,5 +14,6 @@ public class piaskownica {
 		System.out.println("ARenc: :( ąęćś");
 		System.out.println("PUszko: druga próbka żółć");
 		System.out.println("Seriously?");
+		System.out.println("Finally"); //po co mam co� pisa�? (Ola)
 			}
 }
