@@ -15,5 +15,6 @@ public class piaskownica {
 		System.out.println("PUszko: druga xxx¡");
 		System.out.println("Finally"); //po co mam coÅ› pisaÄ‡? (Ola)...
 		System.out.println("przez was i krzaczki nie chce mi siê projekt zapisaæ po zpullowaniu!");
+		System.out.println("KSkóra: êó¹œ³¿Ÿæñ");
 			}
 }
