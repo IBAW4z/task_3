@@ -9,6 +9,6 @@ public class piaskownica {
 		System.out.println("ASiewierska: doda�am co� do kodu"); // W zwi�zku z wykrzaczeniem wywali�am grafomani� Pa�, kt�re nawet na instrukcje nie poczeka�y!
 		System.out.println("Finally"); //po co mam co� pisa�? (Ola)...
 		System.out.println("KSk�ra: Czy kiedy� uda mi si� tu co� zrobi� za pierwszym podej�ciem?");
-        System.out.println("Angels have the phone box"); //line write by AnnaS ;)
+        System.out.println("NAnna: Angels have the phone box"); // ;)
 			}
 }
