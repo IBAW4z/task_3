@@ -12,5 +12,6 @@ public class piaskownica {
 		System.out.println("ARenc: Nie uda si�");
         System.out.println("NAnna: Angels have teh phone box");//kolejna próba
         System.out.println("RUkidding me: patrz nick");
+        System.out.println("PUszko: please");
 			}
 }
