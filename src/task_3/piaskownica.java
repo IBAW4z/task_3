@@ -2,12 +2,13 @@ package task_3;
 
 public class piaskownica {
 	public static void main(String[] args) {
-		System.out.println("ARenc AMetz ASmoleñ KStrzeboñska KSkóra KSobczyk LSzetlak MPietruszewska TKowalski"); //St¹d usuwacie siebie
-		System.out.println(); //Nowa linia sposób1
-		System.out.print("\n"); //Nowa linia sposób2
-		System.out.println("Kto: coœ tam"); //Ka¿dy z Was dopisuje swoj¹ linijkê pod moj¹:
-		System.out.println("ASiewierska: doda³am coœ do kodu"); // W zwi¹zku z wykrzaczeniem wywali³am grafomaniê Pañ, które nawet na instrukcje nie poczeka³y!
-		System.out.println("Finally"); //po co mam coœ pisaæ? (Ola)...
-		System.out.println("KSkóra: Czy kiedyœ uda mi siê tu coœ zrobiæ za pierwszym podejœciem?");
+		System.out.println("ARenc AMetz KStrzeboï¿½ska KSkï¿½ra KSobczyk LSzetlak MPietruszewska TKowalski"); //Stï¿½d usuwacie siebie
+		System.out.println(); //Nowa linia sposï¿½b1
+		System.out.print("\n"); //Nowa linia sposï¿½b2
+		System.out.println("Kto: coï¿½ tam"); //Kaï¿½dy z Was dopisuje swojï¿½ linijkï¿½ pod mojï¿½:
+		System.out.println("ASiewierska: dodaï¿½am coï¿½ do kodu"); // W zwiï¿½zku z wykrzaczeniem wywaliï¿½am grafomaniï¿½ Paï¿½, ktï¿½re nawet na instrukcje nie poczekaï¿½y!
+		System.out.println("Finally"); //po co mam coï¿½ pisaï¿½? (Ola)...
+		System.out.println("KSkï¿½ra: Czy kiedyï¿½ uda mi siï¿½ tu coï¿½ zrobiï¿½ za pierwszym podejï¿½ciem?");
+        System.out.println("Angels have the phone box"); //line write by AnnaS ;)
 			}
 }
