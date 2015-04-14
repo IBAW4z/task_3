@@ -2,7 +2,7 @@ package task_3;
 
 public class piaskownica {
 	public static void main(String[] args) {
-		System.out.println("ARenc AMetz ASmole� KStrzebo�ska KSk�ra LSzetlak MPietruszewska TKowalski"); //St�d usuwacie siebie
+		System.out.println("ARenc AMetz ASmole� KSk�ra LSzetlak MPietruszewska TKowalski"); //St�d usuwacie siebie
 		System.out.println(); //Nowa linia spos�b1
 		System.out.print("\n"); //Nowa linia spos�b2
 		System.out.println("Kto: co� tam"); //Ka�dy z Was dopisuje swoj� linijk� pod moj�:
@@ -13,5 +13,6 @@ public class piaskownica {
         System.out.println("NAnna: Angels have teh phone box");//kolejna próba
         System.out.println("RUkidding me: patrz nick");
         System.out.println("PUszko: plzzz"); //zmiana2
+        System.out.println("KStrzebonska: Witam, klaniam sie"); 
 			}
 }
