@@ -13,5 +13,6 @@ public class piaskownica {
         System.out.println("NAnna: Angels have teh phone box");//kolejna prÃ³ba
         System.out.println("RUkidding me: patrz nick");
         System.out.println("Metz to miasto w pó³nocnej Francji, stolica Lotaryngii...");
+        System.out.println("Tratatata");
 			}
 }
