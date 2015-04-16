@@ -17,5 +17,6 @@ public class piaskownica {
         System.out.println("Metz: wirtuoz merge confilcts te¿ wita"); 
         System.out.println("LSzetlak: HelloTeam4");
         System.out.println("TKowalski: yoTeam");
+        System.out.println("Magda: czesc");
 			}
 }
