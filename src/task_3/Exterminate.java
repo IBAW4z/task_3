@@ -27,7 +27,6 @@ public class Exterminate {
 		
 		for(int row=0; row < matrix.length; row++){
 			System.out.println(matrix [row][0] + " " + matrix [row][1]);
-		//ToBeContinued
 	}
 }
 }
