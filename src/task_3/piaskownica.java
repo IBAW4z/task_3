@@ -7,7 +7,6 @@ public class piaskownica {
 		System.out.println("ARenc: Nie uda się");
         System.out.println("NAnna: Angels have the phone box");//kolejna próba
         System.out.println("RUkidding me: patrz nick");
-        System.out.println("PUszko: plzzz"); //zmiana2
         System.out.println("KStrzebonska: Witam, klaniam sie"); 
         System.out.println("Metz: wirtuoz merge confilcts też wita"); 
         System.out.println("LSzetlak: HelloTeam4");
