@@ -7,6 +7,7 @@ public class MrBroccoli {
 		
 		String autor = "Paulinka";
 		System.out.println("Klasę założywszy: " + autor);
+		// testuję, czy działa jak powinno
 		
 		String[][] tabs = new String[6][5];
 		tabs [0][0]="Imię";
