@@ -8,7 +8,6 @@ public class piaskownica {
         System.out.println("NAnna: Angels have the phone box");//kolejna próba
         System.out.println("RUkidding me: patrz nick");
         System.out.println("KStrzebonska: Witam, klaniam sie"); 
-        System.out.println("Metz: wirtuoz merge confilcts też wita"); 
         System.out.println("LSzetlak: HelloTeam4");
         System.out.println("TKowalski: yoTeam");
         System.out.println("Magda: czesc");
