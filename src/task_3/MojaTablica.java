@@ -7,6 +7,7 @@ public class MojaTablica {
 	public static void main(String[] args) {
  		
  		String slackNick = "aniametz";
+ 		System.out.println("Łódź zawrócę, hańbę ukrócę");
  		
  		Hashtable<String, String> personalData = new Hashtable<String, String>();
  		
