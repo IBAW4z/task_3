@@ -7,6 +7,7 @@ public class MrBroccoli {
 		
 		String autor = "Paulinka";
 		System.out.println("Klasę założywszy: " + autor);
+		// testuję, czy działa jak powinno
 		
 		String[][] tabs = new String[6][5];
 		tabs [0][0]="Imię";
@@ -27,6 +28,7 @@ public class MrBroccoli {
 				tabs[row][col] = odczyt.nextLine();
 			}
 		}
+		odczyt.close();
 		
 		for(int coll=1; coll<tabs[0].length; coll++){
 			System.out.print(coll + " : ");
