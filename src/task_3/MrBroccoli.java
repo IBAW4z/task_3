@@ -28,6 +28,7 @@ public class MrBroccoli {
 				tabs[row][col] = odczyt.nextLine();
 			}
 		}
+		odczyt.close();
 		
 		for(int coll=1; coll<tabs[0].length; coll++){
 			System.out.print(coll + " : ");
