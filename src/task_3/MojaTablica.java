@@ -10,11 +10,11 @@ public class MojaTablica {
  		
  		Hashtable<String, String> personalData = new Hashtable<String, String>();
  		
- 		personalData.put("imiê", "");
+ 		personalData.put("imiÄ™", "");
  		personalData.put("nazwisko", "");
- 		personalData.put("p³eæ", "");
+ 		personalData.put("pÅ‚eÄ‡", "");
  		personalData.put("wiek", "");
- 		personalData.put("zawód", "");
+ 		personalData.put("zawÃ³d", "");
  		personalData.put("miejsce zamieszkania", "");
  		personalData.put("nick", slackNick);
  		
@@ -26,19 +26,19 @@ public class MojaTablica {
  		while(keyIndex.hasMoreElements())
  		{
  			pomocnicza = (String) keyIndex.nextElement();
- 			System.out.println("WprowadŸ "+ pomocnicza +": ");
+ 			System.out.println("WprowadÅº "+ pomocnicza +": ");
  			zapis = scanData.nextLine();
  			personalData.put(pomocnicza, zapis);
  		}
 		
 		scanData.close();
 		
-		System.out.println("Imiê: " + personalData.get("imiê"));
+		System.out.println("ImiÄ™: " + personalData.get("imiÄ™"));
 		System.out.println("Nazwisko: " + personalData.get("nazwisko"));
 		System.out.println("Nick: " + personalData.get("nick"));
-		System.out.println("P³eæ: " + personalData.get("p³eæ"));
+		System.out.println("PÅ‚eÄ‡: " + personalData.get("pÅ‚eÄ‡"));
 		System.out.println("Wiek: " + personalData.get("wiek"));
-		System.out.println("Zawód: " + personalData.get("zawód"));
+		System.out.println("ZawÃ³d: " + personalData.get("zawÃ³d"));
 		System.out.println("Miejsce zamieszkania: " + personalData.get("miejsce zamieszkania"));
 
 }
