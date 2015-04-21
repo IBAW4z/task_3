@@ -5,7 +5,6 @@ public class piaskownica {
 		System.out.println("ASiewierska: Usuwacie swoje linijki"); 
 		System.out.println("Finally");
 		System.out.println("ARenc: Nie uda się");
-        System.out.println("NAnna: Angels have the phone box");//kolejna próba
         System.out.println("RUkidding me: patrz nick");
         System.out.println("KStrzebonska: Witam, klaniam sie"); 
         System.out.println("LSzetlak: HelloTeam4");
