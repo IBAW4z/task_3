@@ -22,7 +22,7 @@ public class MojaTablica {
  		
  		Scanner scanData = new Scanner(System.in);
  		String pomocnicza;
- 		String zapis;
+ 		String zapis; //uff
  		while(keyIndex.hasMoreElements())
  		{
  			pomocnicza = (String) keyIndex.nextElement();
