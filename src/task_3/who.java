@@ -15,10 +15,14 @@ public class who {
     }
 
     public static void main(String[] args) {
+        int sezon;
+        Scanner l=new Scanner(System.in);
         System.out.println("---właściciel---");
         who.showTworca();
         System.out.println("----------------");
-        who[] Mates = new who[8];
+        System.out.println("Ile znasz sezonów?");
+        sezon=l.nextInt();
+        who[] Mates = new who[sezon];
         Scanner w=new Scanner(System.in);
 
         for(int i=0;i<Mates.length;i++){
