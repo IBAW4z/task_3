@@ -2,6 +2,7 @@ package task_3;
 import java.util.Scanner;
 
 public class klasaLemur{
+	
 	//licznik udupienia na najbliższy tydzień
 	public static void main(String [] args){
 		String dane[][];
@@ -16,8 +17,7 @@ public class klasaLemur{
 		dane[4][0]="PIĄTEK";
 		dane[5][0]="SOBOTA";
 		dane[6][0]="NIEDZIELA";
-		
-		
+				
 		for (int i=0; i<dane.length; i++){
 			System.out.println(dane[i][0]+" - co cię udupia?\n");
 			dane [i][1]=tmpS.nextLine();
@@ -26,8 +26,7 @@ public class klasaLemur{
 		}
 		tmpS.close();
 		
-		//wyświetlanie
-		
+		//wyświetlanie tygodnia
 		System.out.println("Twój udupiający tydzień przedstawia się następująco: \n");
 		for (int i=0; i<dane.length; i++){
 			System.out.println(dane[i][0]+" - "+dane[i][1]+" ("+dane[i][2]+")");
@@ -35,16 +34,19 @@ public class klasaLemur{
 		
 		//wyliczenie stopnia udupienia
 		int wspUdup=0;
-			for (int i=0; i<dane.length; i++){
-				try{
-					wspUdup=wspUdup+Integer.parseInt(dane[i][2]);
-				}
-				catch (NumberFormatException exc) {
-					wspUdup=wspUdup+0;
-				}
-			}
 		
+		for (int i=0; i<dane.length; i++){
+			try{
+				wspUdup=wspUdup+Integer.parseInt(dane[i][2]);
+			}
+			catch (NumberFormatException exc) {
+				wspUdup=wspUdup+0;
+			}
+		}
+		
+		//skomentowanie stopnia udupienia
 		String koment;
+		
 		if (wspUdup<10)
 			koment="Prokrastynuj w spokoju.";
 		else if (wspUdup>10 && wspUdup<20)
