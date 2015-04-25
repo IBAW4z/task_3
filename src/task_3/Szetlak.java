@@ -10,7 +10,7 @@ public class Szetlak {
 	        dane[0][0] = "imie: ";
 	        dane[1][0] = "nazwisko: ";
 	        dane[2][0] = "wiek: ";
-	        dane[3][0] = "p³eæ: ";
+	        dane[3][0] = "pÅ‚eÄ‡: ";
 	        dane[4][0] = "ulubiony kolor: ";
 	        dane[5][0] = "ulubiona potrawa: ";
 	        dane[6][0] = "ulubiona piosenka: ";
